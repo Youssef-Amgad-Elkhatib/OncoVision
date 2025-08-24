@@ -28,7 +28,7 @@ This project uses the **Brain Tumor MRI Dataset** containing four classes:
 - 🧩 Pituitary  
 - 🚫 No Tumor  
 
-> The dataset is available on [Kaggle](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri).
+> The dataset is available on [Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset).
 
 ---
 
