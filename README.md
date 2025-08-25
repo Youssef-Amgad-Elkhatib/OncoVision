@@ -6,6 +6,10 @@ It focuses on detecting and classifying brain tumors into categories such as **G
 The project explores data preprocessing, augmentation, model design, training with checkpoints, and evaluation through metrics and visualizations.
 
 ---
+# 🎥 Video
+[![OncoVision](https://ytcards.demolab.com/?id=wJ710_eJ5uw&title=OncoVision&lang=en&timestamp=1756150574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=166 "OncoVision")](https://www.youtube.com/watch?v=wJ710_eJ5uw)
+
+---
 
 ## 📌 Features
 - 📂 **Organized Jupyter Notebook** with clean sections and icons for readability  
